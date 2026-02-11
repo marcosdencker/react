@@ -1,0 +1,23 @@
+.Container {
+  background-color: #1492eb;
+  margin: 15px;
+  padding: 20px;
+  border-radius: 8px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  box-shadow: 2px 2px 8px rgba(0,0,0,0.2);
+  
+
+}
+
+p {
+color: aliceblue;
+
+}
+
+h1 {
+color: aliceblue;
+
+}
+
+
